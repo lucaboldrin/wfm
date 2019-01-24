@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <jobtype name="CBCNSUPFY" time="99"/>
+    <jobtype name="CBCNSUPWS" time="79"/>
+    <jobtype name="CBCNSUPWY" time="85"/>
+    <jobtype name="CBCNSUPWX" time="89"/>
+    <jobtype name="EBCNSWAP" time="91"/>
+    <jobtype name="EBCNSWAY" time="91"/>
+    <jobtype name="CBCNGRECL" time="44"/>
+    <jobtype name="EBCNINCNM" time="90"/>
+    <jobtype name="EBCNINCNY" time="80"/>
+    <jobtype name="EBCNINCNX" time="69"/>
+    <jobtype name="EBCNINLIC" time="66"/>
+    <jobtype name="EBCNINLIY" time="59"/>
+    <jobtype name="EBCNINLIX" time="68"/>
+    <jobtype name="EBCNINDAY" time="66"/>
+    <jobtype name="EBCNINDAX" time="71"/>
+    <jobtype name="EBCNINDAT" time="67"/>
+    <jobtype name="EBCNCOEPQ" time="177"/>
+    <jobtype name="EBCNCOEPY" time="170"/>
+    <jobtype name="EBCNCOEPX" time="195"/>
+    <jobtype name="EBCNCVCF" time="120"/>
+    <jobtype name="EBCNCESSA" time="63"/>
+    <jobtype name="EBCNATAMP" time="86"/>
+    <jobtype name="EBCNATAMY" time="79"/>
+    <jobtype name="EBCNATAMX" time="80"/>
+    <jobtype name="EBCNATAMS" time="80"/>
+    <jobtype name="EBCNATAMF" time="85"/>
+    <jobtype name="EBCNATCLN" time="195"/>
+    <jobtype name="EBCNCOEEI" time="130"/>
+    <jobtype name="EBCNCODCY" time="73"/>
+    <jobtype name="EBCNCODCX" time="77"/>
+    <jobtype name="EBCNINSRY" time="88"/>
+    <jobtype name="EBCNINSRX" time="77"/>
+    <jobtype name="EBCNRHREY" time="83"/>
+    <jobtype name="EBCNRHREX" time="96"/>
+    <jobtype name="EBCNRHRES" time="89"/>
+    <jobtype name="EBCNCODCL" time="77"/>
+    <jobtype name="EBCNCOROL" time="155"/>
+    <jobtype name="EBCNPPUSE" time="75"/>
+    <jobtype name="EBCNFSASY" time="64"/>
+    <jobtype name="EBCNFSASX" time="142"/>
+    <jobtype name="EBCNFSASP" time="127"/>
+    <jobtype name="EBCNSTSIS" time="110"/>
+    <jobtype name="CBCNRECLA" time="69"/>
+    <jobtype name="CBCNSUPFX" time="92"/>
+    <jobtype name="CBCNAFTSL" time="89"/>
+    <jobtype name="CBCNAFTSY" time="113"/>
+    <jobtype name="CBCNAFTSX" time="104"/>
+    <jobtype name="CBCNSUPFD" time="101"/>
+    <jobtype name="PBCNMPPRY" time="93"/>
+    <jobtype name="PBCNMPPRX" time="80"/>
+    <jobtype name="PBCNMPPRE" time="73"/>
+    <jobtype name="EBCNMGFLU" time="70"/>
+    <jobtype name="EBCNIOLFO" time="118"/>
+    <jobtype name="EBMAIECAL" time="98"/>
+    <jobtype name="CBCNMACOY" time="71"/>
+    <jobtype name="CBCNMACOX" time="72"/>
+    <jobtype name="CBCNMACOR" time="62"/>
+    <jobtype name="EBCNPDCGY" time="87"/>
+    <jobtype name="EBCNPDCGX" time="89"/>
+    <jobtype name="EBCNPDCGS" time="86"/>
+    <jobtype name="EBCNPRDAT" time="88"/>
+    <jobtype name="EBCNPFRET" time="79"/>
+    <jobtype name="EBCNINSWY" time="87"/>
+    <jobtype name="EBCNINSWX" time="87"/>
+    <jobtype name="EBCNINSWC" time="85"/>
+    <jobtype name="EBCNINSWR" time="89"/>
+</root>

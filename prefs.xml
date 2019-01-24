@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <pref name="1">
+        <jb name="EBCNATAMY" tuning="0"/>
+        <jb name="EBCNATAMY" tuning="0"/>
+        <jb name="EBCNATAMY" tuning="0"/>
+        <jb name="CBCNMACOX" tuning="0"/>
+        <jb name="CBCNMACOX" tuning="0"/>
+        <jb name="CBCNCODCL" tuning="0"/>
+    </pref>
+    <pref name="2">
+        <jb name="EBCNATAMY" tuning="0"/>
+        <jb name="EBCNATAMY" tuning="0"/>
+        <jb name="CBCNMACOX" tuning="0"/>
+        <jb name="EBCNATAMS" tuning="0"/>
+        <jb name="EBCNCODCL" tuning="0"/>
+        <jb name="CBCNMACOY" tuning="0"/>
+    </pref>
+    <pref name="3">
+        <jb name="CBCNMACOX" tuning="0"/>
+        <jb name="EBCNATAMF" tuning="0"/>
+        <jb name="CBCNMACOR" tuning="0"/>
+        <jb name="CBCNMACOY" tuning="0"/>
+        <jb name="EBCNATAMY" tuning="0"/>
+        <jb name="CBCNSUPWX" tuning="0"/>
+    </pref>
+</root>
